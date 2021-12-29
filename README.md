@@ -2,6 +2,8 @@
 
 ## Original dumpasn1-Code from the most famous Mr. Peter Gutmann himself :-)
 
+### DumpASN1 - ASN.1 object dump/syntax check program.<br>Copyright Peter Gutmann 1997 - 2021.<br>Last updated 12 February 2021.
+
 #### https://www.cs.auckland.ac.nz/~pgut001/dumpasn1.c<br>https://www.cs.auckland.ac.nz/~pgut001/dumpasn1.cfg
 
 > Based on ASN.1 dump program by David Kemp, with contributions from various people including Matthew Hamrick, Bruno Couillard, Hallvard Furuseth, Geoff Thorpe, David Boyce, John Hughes, 'Life is hard, and then you die', Hans-Olof Hermansson, Tor Rustad, Kjetil Barvik, James Sweeny, Chris Ridd, David Lemley, John Tobey, James Manger, Igor Perminov, and several other people whose names Mr. Gutmann misplaced.
