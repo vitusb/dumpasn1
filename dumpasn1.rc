@@ -1,0 +1,30 @@
+1 ICON "icon_1.ico"
+
+1 VERSIONINFO
+FILEVERSION 2021,04,22,0
+PRODUCTVERSION 2021,04,22,0
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "000004B0"
+	{
+		VALUE "CompanyName", "Peter Gutmann"
+		VALUE "FileDescription", "DumpASN1 - ASN.1 object dump / syntax check program."
+		VALUE "FileVersion", "2021.04.22"
+		VALUE "InternalName", "dumpasn1"
+		VALUE "LegalCopyright", "Copyright 1997-2021 by Peter Gutmann"
+		VALUE "OriginalFilename", "dumpasn1.exe"
+		VALUE "ProductName", "dumpasn1"
+		VALUE "ProductVersion", "2021.04.22"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0000, 0x04B0
+}
+}
+
+1 24 "data_1.bin"
